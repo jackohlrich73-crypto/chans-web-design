@@ -25,11 +25,6 @@
     "tailwindcss": "^3.4.10",
     "@types/node": "^20.14.15",
     "@types/react": "^18.3.3",
-    "@types/react-dom": "^18.3.0"
-  },
-  "pnpm": {
-    "onlyBuiltDependencies": [
-      "unrs-resolver"
-    ]
+       "@types/react-dom": "^18.3.0"
   }
 }
